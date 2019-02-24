@@ -66,6 +66,8 @@ ffmpeg -standard pal-DK -s 640x480 -i /dev/video1 http://localhost:8090/cam1.ffm
 Так-же все вышеперечисленные команды можно ислпользовать в скриптах и добавить в автозагрузку, и вообще линукс почти не ограничивает Вашу фантазию))
 
 Добавление камер в ZoneMinder происходит по следующему шаблону:
+![](https://github.com/25RUS/instructions/blob/master/images/video_surveillance/123.png)
+![](https://github.com/25RUS/instructions/blob/master/images/video_surveillance/1234.png)
  
 
 
