@@ -36,7 +36,7 @@
 	#ACL allow 127.0.0.1
 	</feed>
 
-	Stream cam0.mjpg>
+	<Stream cam0.mjpg>
 	Feed cam0.ffm
 	Format mpjpeg
 	VideoFrameRate 4
@@ -46,7 +46,7 @@
 	Strict -1
 	</Stream>
 
-	Stream cam1.mjpg>
+	<Stream cam1.mjpg>
 	Feed cam1.ffm
 	Format mpjpeg
 	VideoFrameRate 4
